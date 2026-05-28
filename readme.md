@@ -1,5 +1,7 @@
 # Xdebug Trace Viewer
 
+[Online Demo](https://github30.github.io/xdebug-trace-viewer/)
+
 > An xdebug trace viewer build on electron.
 
 ## Features
