@@ -1,6 +1,6 @@
 # Xdebug Trace Viewer
 
-[Online Demo](https://github30.github.io/xdebug-trace-viewer/)
+[Online Demo](https://github30.github.io/xdebug-trace-viewer/) [Flame Chart](https://github30.github.io/xdebug-flame-chart/)
 
 > An xdebug trace viewer build on electron.
 
